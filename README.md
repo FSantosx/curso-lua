@@ -1,1 +1,1 @@
-# curso-lua
+# Curso de Linguagem Lua
