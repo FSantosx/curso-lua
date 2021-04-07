@@ -12,3 +12,5 @@ io.write("Adicao ...........: ", X1, "\n")
 io.write("Subtracao ........: ", X2, "\n")
 io.write("Multiplicacao ....: ", X3, "\n")
 io.write("Divisao ..........: ", X4, "\n")
+
+io.write("Programação em Lua")
